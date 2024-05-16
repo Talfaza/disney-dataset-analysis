@@ -1,4 +1,4 @@
-# netflix-dataset-analysis
+# disney-dataset-analysis
 
 # Requirements : 
 - Python 3.11
